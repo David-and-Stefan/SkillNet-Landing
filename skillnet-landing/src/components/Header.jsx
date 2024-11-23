@@ -1,7 +1,7 @@
 import logo from "../assets/logo.png";
 export function Header() {
   function App() {
-    return window.open("https://app.mealmasterbot.com");
+    return window.open("https://platform.skillnet.dev");
   }
 
   return (
