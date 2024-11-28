@@ -1,4 +1,4 @@
-import image from "../assets/benefits.webp";
+import image from '../assets/benefits.webp';
 
 export function BenefitsOfUsing() {
   return (
@@ -11,24 +11,27 @@ export function BenefitsOfUsing() {
           <ul className="list-disc ml-10">
             <li className="p-2">
               <span className="font-semibold text-purple-400">
-                Seamless Organization:
-              </span>{" "}
-              AI understands your preferences and suggests dishes that suit your
-              taste.
+                Personalized Recommendations:
+              </span>{' '}
+              Get tailored suggestions based on your unique needs and
+              preferences.
             </li>
             <li className="p-2">
+              {/* How SkillNet Simplifies Personalized Recommendations: Get tailored suggestions based on your unique needs and preferences. */}
+              {/* •	Tools for Efficient Planning and Organization: Discover how SkillNet helps you save time by organizing resources and activities seamlessly. */}
+              {/* •	Ways to Enhance Your Experience with Visual Aids: Explore features that make learning and collaboration more engaging through visually rich content. */}
               <span className="font-semibold text-purple-400">
-                Efficient Meal Planning:
-              </span>{" "}
-              Save time by having recipes tailored to what you have in your
-              kitchen.
+                Efficient Planning and Organisation:
+              </span>{' '}
+              Discover how SkillNet helps you save time by organizing resources
+              and activities seamlessly.
             </li>
             <li className="p-2">
               <span className="font-semibold text-purple-400">
                 Beautiful Visuals:
-              </span>{" "}
-              Enjoy high-quality images of your meal to make cooking more
-              exciting and fun!
+              </span>{' '}
+              Explore features that make learning and collaboration more
+              engaging through visually rich content.
             </li>
           </ul>
         </div>

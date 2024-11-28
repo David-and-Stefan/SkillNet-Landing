@@ -1,9 +1,9 @@
-import image from "../assets/discover.webp";
-import image2 from "../assets/timetable.webp";
+import image from '../assets/discover.webp';
+import image2 from '../assets/timetable.webp';
 
 export function Discover() {
   function App() {
-    return window.open("https://platform.skillnet.dev");
+    return window.open('https://platform.skillnet.dev');
   }
   return (
     <div className="flex justify-center items-center flex-col">
@@ -15,22 +15,22 @@ export function Discover() {
             </h2>
             <ul className="list-disc ml-10">
               <li className="p-2">
-                How SkillNet Simplifies{" "}
+                How SkillNet Simplifies{' '}
                 <span className="font-semibold text-purple-400">
                   Organizing Lessons, Trainings, and Group Activities.
                 </span>
               </li>
               <li className="p-2">
-                Tools for Seamless Collaboration Between{" "}
+                Tools for Seamless Collaboration Between{' '}
                 <span className="font-semibold text-purple-400">
                   Organizers, Students, and Group Members.
                 </span>
               </li>
               <li className="p-2">
-                Ways to Use the Platform to{" "}
+                Ways to Use the Platform to{' '}
                 <span className="font-semibold text-purple-400">
                   Save Time, Stay Organized,
-                </span>{" "}
+                </span>{' '}
                 and Enhance Learning Experiences.
               </li>
               <li className="p-2">
@@ -38,11 +38,11 @@ export function Discover() {
                 Auth0 Authentication.
               </li>
               <li className="p-2">
-                Exciting Features for{" "}
+                Exciting Features for{' '}
                 <span className="font-semibold text-purple-400">
                   Joining Groups, Exploring Interests, and Unlocking New
                   Opportunities.
-                </span>{" "}
+                </span>{' '}
               </li>
             </ul>
           </div>
@@ -56,8 +56,7 @@ export function Discover() {
         </div>
         <a
           onClick={App}
-          className="inline-block cursor-pointer rounded-lg bg-purple-400 px-6 py-3.5 text-center font-medium text-white hover:bg-orange-500 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
-        >
+          className="inline-block cursor-pointer rounded-lg bg-purple-400 px-6 py-3.5 text-center font-medium text-white hover:bg-orange-500 focus:outline-none focus:ring-4 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
           Join SkillNet for Free
         </a>
       </section>
@@ -89,7 +88,7 @@ export function Discover() {
             effortlessly while empowering students and members to join groups,
             explore interests, and stay connected. With SkillNet, you’ll save
             time, boost collaboration, and unlock endless opportunities for
-            growth—all in one digital platform.{" "}
+            growth—all in one digital platform.{' '}
           </p>
         </div>
       </div>
@@ -97,13 +96,12 @@ export function Discover() {
         <p className="text-lg mt-5">
           Transform how you manage lessons, trainings, and group activities. and
           make organizing and participating a seamless, interactive, and
-          enjoyable experience for everyone.{" "}
+          enjoyable experience for everyone.{' '}
           <a
             className="font-semibold text-purple-400 underline"
-            href="https://app.mealmasterbot.com"
-          >
+            href="https://platform.skillnet.dev">
             Join SkillNet
-          </a>{" "}
+          </a>{' '}
           and make organizing and participating a seamless, interactive, and
           enjoyable experience for everyone.
         </p>
