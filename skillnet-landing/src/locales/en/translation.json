@@ -1,0 +1,73 @@
+{
+  "header": {
+    "get-started": "Get started",
+    "language": {
+      "en": "English",
+      "bg": "Bulgarian"
+    }
+  },
+  "simplify": {
+    "unlock": "Unlock Your Potential with",
+    "description": "Organize, join, and thrive—SkillNet makes lessons, trainings, and groups simple and interactive for everyone.",
+    "reserve-btn": "Reserve My Spot Now"
+  },
+  "benefits": {
+    "title": "Benefits of Using {{projectTitle}}",
+    "recommendations": {
+      "title": "Personalized Recommendations",
+      "description": "Get tailored suggestions based on your unique needs and preferences."
+    },
+    "efficient-planning": {
+      "title": "Efficient Planning and Organisation",
+      "description": "Discover how SkillNet helps you save time by organizing resources and activities seamlessly."
+    },
+    "visuals": {
+      "title": "Beautiful Visuals",
+      "description": "Explore features that make learning and collaboration more engaging through visually rich content."
+    }
+  },
+  "discover": {
+    "title": "Here’s What You’ll Discover with {{projectTitle}}",
+    "list": {
+      "item1": "How SkillNet Simplifies <bold>Organizing Lessons, Trainings, and Group Activities.</bold>",
+      "item2": "Tools for Seamless Collaboration Between <bold>Organizers, Students, and Group Members.</bold>",
+      "item3": "Ways to Use the Platform to <bold>Save Time, Stay Organized,</bold> and Enhance Learning Experiences.",
+      "item4": "Easy Steps to Get Started and Set Up Your Account with Secure Auth0 Authentication.",
+      "item5": "Exciting Features for <bold>Joining Groups, Exploring Interests, and Unlocking New Opportunities.</bold>"
+    },
+    "join-btn": "Join {{projectTitle}} for Free",
+    "intro": {
+      "heading": "Tired of the hassle of managing lessons and trainings?",
+      "paragraph": "Whether you're organizing events or joining groups, SkillNet is here to streamline your schedule and enhance your learning experience."
+    },
+    "overlay": {
+      "paragraph1": "In Europe, tens of millions of students and organizers face the challenge of managing lessons, trainings, and group activities. From diverse learning styles to busy schedules, staying organized can feel overwhelming.",
+      "paragraph2": "SkillNet is designed to cater to all these needs and simplify these challenges. It enables organizers to manage events effortlessly while empowering students and members to join groups, explore interests, and stay connected. With SkillNet, you’ll save time, boost collaboration, and unlock endless opportunities for growth—all in one digital platform."
+    },
+    "cta": {
+      "text": "Transform how you manage lessons, trainings, and group activities. Make organizing and participating a seamless, interactive, and enjoyable experience for everyone. <customLink>Join SkillNet</customLink> and make organizing and participating a seamless, interactive, and enjoyable experience for everyone."
+    }
+  },
+  "whySkillNet": {
+    "heading": "Why SkillNet is Different",
+    "subheading": "What makes SkillNet your ultimate platform for growth?",
+    "paragraph1": "Designed for both organizers and participants, SkillNet goes beyond basic scheduling. <highlight1>It brings everyone together in a fully interactive and digital environment</highlight1>, making it easy to manage lessons, join groups, and explore new opportunities. Plus, with secure authentication, <highlight2>your data and activities are always protected</highlight2>."
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "Read what our users are saying about SkillNet",
+    "cta": "Start using SkillNet",
+    "quote1": "SkillNet has made organizing my lessons and managing student groups so much easier. It's a game-changer for teachers like me!",
+    "quote1Author": "Emma",
+    "quote1Role": "Teacher",
+    "quote2": "As a student, I love how easy it is to join groups and stay connected with activities. SkillNet keeps everything organized for me.",
+    "quote2Author": "Lucas",
+    "quote2Role": "Student"
+  },
+  "footer": {
+    "home": "Home",
+    "webApp": "Web App",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
