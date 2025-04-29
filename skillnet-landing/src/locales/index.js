@@ -1,12 +1,8 @@
+import bgTranslation from './bg/translation.json';
+import enTranslation from './en/translation.json';
 import { Locale } from './locale';
 
 export default Object.seal({
-  [Locale.EN]: await importTranslation(Locale.EN),
-  [Locale.BG]: await importTranslation(Locale.BG),
+  [Locale.EN]: Object.seal({ translation: enTranslation }),
+  [Locale.BG]: Object.seal({ translation: bgTranslation }),
 });
-
-async function importTranslation(locale) {
-  return Object.seal({
-    translation: await import(`./${locale}/translation.json`),
-  });
-}
